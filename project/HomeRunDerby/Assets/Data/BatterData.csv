@@ -1,0 +1,8 @@
+FilePathLeftHigh,BatterLH.fbx
+FilePathLeftLow,BatterLL.fbx
+FilePathRightHigh,BatterRH.fbx
+FilePathRightLow,BatterRL.fbx
+FilePathCenter,BatterCenter.fbx
+BatRadius,0.25
+Power,0.7
+ImpactFrame,10
